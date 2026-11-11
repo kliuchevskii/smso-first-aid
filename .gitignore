@@ -1,0 +1,6 @@
+config.local.php
+*.log
+.schema_version
+/uploads/
+.DS_Store
+Thumbs.db
